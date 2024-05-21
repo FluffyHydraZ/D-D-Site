@@ -1,2 +1,2 @@
 # D-D-Site
-This is a website for the players in my D&amp;D campaign: Sea of Treason. 
+This is a website for my players participating in the Tyranny of Dragons Campaign
